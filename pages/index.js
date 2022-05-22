@@ -1,6 +1,6 @@
 import Link from "next/dist/client/link";
 import 'tailwindcss/tailwind.css';
-import RoboCard from "../component/RoboCard";
+import RoboCard from "../components/RoboCard";
 
 
 const Robots = (props) => {
