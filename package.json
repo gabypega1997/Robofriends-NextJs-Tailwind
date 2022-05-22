@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "next"
+    "start": "next",
+    "dev": ""
   },
   "keywords": [],
   "author": "",
